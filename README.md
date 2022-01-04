@@ -1,2 +1,2 @@
-# HelloReact
+# HiReact
 React Self Study
